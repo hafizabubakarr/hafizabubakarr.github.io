@@ -1,13 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Hafiz" tvg-logo="https://hafizabubakarr.github.io/trademark.jpg", - Playlist By Hafiz -
-https://hafizabubakarr.github.io/test.m3u
-
 #EXTINF:-1 tvg-id="501" tvg-logo="https://i.imgur.com/dLzgBUj.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-id="104" tvg-logo="https://lo1.in/MALAY/astrori.png",Astro Ria
+#EXTINF:-1 tvg-id="104" tvg-logo="https://i.imgur.com/rM3Lq8P.png",Astro Ria Test 1
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://i.imgur.com/rM3Lq8P.png",Astro Ria Test 2
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/191867
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://i.imgur.com/rM3Lq8P.png",Astro Ria Test 3
+http://edkxsap.mexamo.xyz:80/9746601005/8058535603/191867
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://i.imgur.com/rM3Lq8P.png",Astro Ria Test 4
+http://zsjfbcf.mexamo.xyz:80/5124848182/9078455403/191867
 
 #EXTINF:-1 tvg-id="001" tvg-logo="https://i.imgur.com/1Xzxsgl.png",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
