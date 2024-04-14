@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Hafiz" tvg-logo="https://hafizabubakarr.github.io/trademark.jpg", Made By Hafiz Abu Bakar
+#EXTINF:-1 tvg-id="Hafiz" tvg-logo="https://hafizabubakarr.github.io/trademark.jpg", - Playlist By Hafiz -
 https://hafizabubakarr.github.io/test.m3u
 
 #EXTINF:-1 tvg-id="501" tvg-logo="https://i.imgur.com/dLzgBUj.png",Astro Awani
@@ -13,31 +13,31 @@ http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTINF:-1 tvg-id="146",Okey RTM
+#EXTINF:-1 tvg-id="146" tvg-logo="https://i.imgur.com/V2jREQ5.png",Okey RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
-#EXTINF:-1 tvg-id="002",RTM Parlimen
+#EXTINF:-1 tvg-id="002" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220810/20220810211708829sbp.png",RTM Parlimen
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
-#EXTINF:-1 tvg-id="003",Sukan RTM 
+#EXTINF:-1 tvg-id="003" tvg-logo="https://i.imgur.com/1pYYSu2.png",Sukan RTM 
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="101" tvg-logo="https://lo1.in/MALAY/tv1.png",TV1 
+#EXTINF:-1 tvg-id="101" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1 
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
-#EXTINF:-1 tvg-id="102" tvg-logo="https://lo1.in/MALAY/tv2.png",TV2
+#EXTINF:-1 tvg-id="102" tvg-logo="https://i.imgur.com/LGEdeyJ.png",TV2
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 tvg-id="103" tvg-logo="https://lo1.in/MALAY/tv3.png",TV3
+#EXTINF:-1 tvg-id="103" tvg-logo="https://i.imgur.com/bHcZgIo.png",TV3
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="004"",TV6
+#EXTINF:-1 tvg-id="004" tvg-logo="https://i.imgur.com/bK8UH9D.png",TV6
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
-#EXTINF:-1 tvg-id="005",TVIKIM
+#EXTINF:-1 tvg-id="005" tvg-logo="https://i.imgur.com/X6JKNEE.png",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
