@@ -18,9 +18,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 tvg-id="148" tvg-logo="https://i.imgur.com/Jkx9W88.png",8TV
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8
 
-#EXTINF:-1 tvg-id="006" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png",TV Al-Hijrah
-http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="001" tvg-logo="https://i.imgur.com/1Xzxsgl.png",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -42,6 +39,9 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvK
 #EXTINF:-1 tvg-id="005" tvg-logo="https://i.imgur.com/X6JKNEE.png",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
+#EXTINF:-1 tvg-id="007" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Bernama_logo.png",BERNAMA
+https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+
 #EXTINF:-1 tvg-id="501" tvg-logo="https://i.imgur.com/dLzgBUj.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
@@ -60,8 +60,14 @@ http://170.254.18.106/HBO_SIG/index.m3u8
 #EXTINF:-1 tvg-id="407" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO Xtreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
 
-#EXTINF:-1 tvg-id="407" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
+#EXTINF:-1 tvg-id="408" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 http://170.254.18.106/CINEMAX/index.m3u8
 
+#EXTINF:-1 tvg-id="409" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",CinemaWorld
+http://210.210.155.37/dr9445/h/h04/index.m3u8
 
+#EXTINF:-1 tvg-id="410" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
+#EXTINF:-1 tvg-id="409" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png",eGG Network
+http://210.210.155.37/uq2663/h/h22/index.m3u8
