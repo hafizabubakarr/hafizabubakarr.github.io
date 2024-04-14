@@ -51,6 +51,9 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="407" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png",History
 http://170.254.18.106/HISTORY/index.m3u8
 
+#EXTINF:-1 tvg-id="404" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO
+https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+
 #EXTINF:-1 tvg-id="405" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
@@ -68,7 +71,4 @@ http://210.210.155.35/dr9445/h/h04/index.m3u8
 
 #EXTINF:-1 tvg-id="410" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-#EXTINF:-1 tvg-id="411" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png",SelangorTV
-https://ythls.armelin.one/channel/UCldPEJgJgq_Mb6Ndek5RxQg.m3u8
 
