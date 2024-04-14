@@ -45,9 +45,6 @@ https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 #EXTINF:-1 tvg-id="392" tvg-logo="https://i.imgur.com/7DqgELX.png",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
-#EXTINF:-1 tvg-id="393" tvg-logo="https://i.imgur.com/ea0iGfA.png",ONE
-http://210.210.155.37/uq2663/h/h143/index.m3u8
-
 #EXTINF:-1 tvg-id="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",tvN
 https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
 
@@ -63,9 +60,6 @@ http://170.254.18.106/HISTORY/index.m3u8
 #EXTINF:-1 tvg-id="404" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",HBO
 https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 
-#EXTINF:-1 tvg-id="403" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2
-http://stream.flynetwifi.com:1935/live/mobile-094/playlist.m3u8
-
 #EXTINF:-1 tvg-id="405" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
@@ -77,9 +71,6 @@ http://170.254.18.106/HBO_XTREME/index.m3u8
 
 #EXTINF:-1 tvg-id="408" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
 http://170.254.18.106/CINEMAX/index.m3u8
-
-#EXTINF:-1 tvg-id="408" tvg-logo="https://i.imgur.com/IM8Gy1l.png",HITS
-http://210.210.155.37/dr9445/h/h37/index.m3u8
 
 #EXTINF:-1 tvg-id="416" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN Movies
 http://210.210.155.37/dr9445/h/h21/index.m3u8
