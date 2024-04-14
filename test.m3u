@@ -1,17 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Hafiz" tvg-logo="https://hafizabubakarr.github.io/trademark.jpg", Made By Hafiz Abu Bakar
+https://hafizabubakarr.github.io/test.m3u
 
-#EXTINF:-1 tvg-id="501" tvg-logo="https://lo1.in/MALAY/astroaw.png",Astro Awani
+#EXTINF:-1 tvg-id="501" tvg-logo="https://i.imgur.com/dLzgBUj.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://lo1.in/MALAY/astrori.png",Astro Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
-#EXTINF:0 tvg-id="411",HBO
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/158082
-
-#EXTINF:-1 tvg-id="001",Berita RTM
+#EXTINF:-1 tvg-id="001" tvg-logo="https://i.imgur.com/1Xzxsgl.png",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
