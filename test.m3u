@@ -3,16 +3,7 @@
 #EXTINF:-1 tvg-id="501" tvg-logo="https://i.imgur.com/dLzgBUj.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-id="104" tvg-logo="https://i.imgur.com/rM3Lq8P.png",Astro Ria Test 1
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
-
-#EXTINF:-1 tvg-id="104" tvg-logo="https://i.imgur.com/rM3Lq8P.png",Astro Ria Test 2
-http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/191867
-
-#EXTINF:-1 tvg-id="104" tvg-logo="https://i.imgur.com/rM3Lq8P.png",Astro Ria Test 3
-http://edkxsap.mexamo.xyz:80/9746601005/8058535603/191867
-
-#EXTINF:-1 tvg-id="104" tvg-logo="https://i.imgur.com/rM3Lq8P.png",Astro Ria Test 4
+#EXTINF:-1 tvg-id="104" tvg-logo="https://i.imgur.com/rM3Lq8P.png",Astro Ria
 http://zsjfbcf.mexamo.xyz:80/5124848182/9078455403/191867
 
 #EXTINF:-1 tvg-id="001" tvg-logo="https://i.imgur.com/1Xzxsgl.png",Berita RTM
@@ -26,6 +17,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 #EXTINF:-1 tvg-id="002" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220810/20220810211708829sbp.png",RTM Parlimen
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
+
+#EXTINF:-1 tvg-id="147" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8
+
+#EXTINF:-1 tvg-id="148" tvg-logo="https://i.imgur.com/Jkx9W88.png",8TV
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8
 
 #EXTINF:-1 tvg-id="003" tvg-logo="https://i.imgur.com/1pYYSu2.png",Sukan RTM 
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
@@ -47,3 +44,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 #EXTINF:-1 tvg-id="005" tvg-logo="https://i.imgur.com/X6JKNEE.png",TVIKIM
 https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1 tvg-id="006" tvg-logo="https://i.imgur.com/BqIVmN1.png",Drama Sangat
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DramaSangat/index.m3u8|referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
+
+#EXTINF:-1 tvg-id="502" tvg-logo="https://i.imgur.com/skJjF4m.png",Bernama
+https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+
+#EXTINF:-1 tvg-id="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/512px-TVS_Sarawak.jpg",TVS
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tvs/index.m3u8
