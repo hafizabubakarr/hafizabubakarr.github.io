@@ -18,6 +18,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 tvg-id="148" tvg-logo="https://i.imgur.com/Jkx9W88.png",8TV
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8
 
+#EXTINF:-1 tvg-id="006" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/TV_Alhijrah_logo.png",TV Al-Hijrah
+http://202.73.9.10:1935/mylive/smil:tvalhijrah_all.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="001" tvg-logo="https://i.imgur.com/1Xzxsgl.png",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
@@ -45,10 +48,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 tvg-id="104" tvg-logo="https://i.imgur.com/rM3Lq8P.png",Astro Ria
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="393" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",Astro ONE
-https://dispatch.ulivetv.net/v/live/cg48t03y5xvk.m3u8?stream_id=cg48t03y5xvk×tamp=1685729191&rand=Cf3bQ26fIq&uuid=9b647b3816b2a66a&from=web&sign=d54173053d05ff52cdb5f76cd2af688e
-
-#EXTINF:-1 tvg-id="407" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg",History
+#EXTINF:-1 tvg-id="407" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png",History
 http://170.254.18.106/HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="405" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",HBO Plus
