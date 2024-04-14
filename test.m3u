@@ -64,10 +64,11 @@ http://170.254.18.106/HBO_XTREME/index.m3u8
 http://170.254.18.106/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="409" tvg-logo="https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",CinemaWorld
-http://210.210.155.37/dr9445/h/h04/index.m3u8
+http://210.210.155.35/dr9445/h/h04/index.m3u8
 
 #EXTINF:-1 tvg-id="410" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:-1 tvg-id="409" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png",eGG Network
-http://210.210.155.37/uq2663/h/h22/index.m3u8
+#EXTINF:-1 tvg-id="411" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png",SelangorTV
+https://ythls.armelin.one/channel/UCldPEJgJgq_Mb6Ndek5RxQg.m3u8
+
