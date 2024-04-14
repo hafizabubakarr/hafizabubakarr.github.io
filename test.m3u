@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="501" tvg-logo="https://lo1.in/MALAY/astroaw.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
-#EXTINF:-1 tvg-id="104" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png", Astro Ria
+#EXTINF:-1 tvg-id="104" tvg-logo="https://lo1.in/MALAY/astrori.png",Astro Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id="001",Berita RTM
