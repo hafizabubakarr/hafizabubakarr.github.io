@@ -129,7 +129,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2309/default.mpd
 
-#EXTINF:0 tvg-ID="333" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" , Astro Hua Hee Dai
+#EXTINF:0 tvg-ID="333" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/162_144.png" , Astro Hua Hee Dai HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yKD35puzHf1HXaJvxsYAOw", "kid":"YFB+8NycgT1fjHsiKUEvEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2308/default.mpd
@@ -181,13 +181,10 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5052/default_primary.mp
 #EXTINF:-1 tvg-id="413" group-title="Movies" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/0/0a/Showcase_Movies.svg/revision/latest?cb=20220415232516", Showcase
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
-#EXTINF:0 tvg-ID="CelestialMovies" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/51228a21277171.562fe7a2cca71.jpg" group-title="Movies" ,Celestial Movies
+#EXTINF:0 tvg-ID="309" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="Movies" ,Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/506/default.mpd
-
-#EXTINF:0 tvg-ID="starmovies.in" tvg-logo="https://brandslogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="Movies" ,Star Movies HD
-http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
 
 ========================================================================================== KOREAN =================================================================================================================
 
@@ -204,18 +201,15 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default_primary.mp
 #EXTINF:-1 tvg-id="395" group-title="Koreans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",tvN
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
 
-#EXTINF:0 tvg-ID="ONE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="Koreans" ,ONE HD
+#EXTINF:0 tvg-ID="393" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/133_144.png" group-title="Koreans" ,ONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
-#EXTINF:0 tvg-ID="K-Plus" tvg-logo="https://i.imgur.com/QVj6I9k.png" group-title="Koreans",Kplus
+#EXTINF:0 tvg-ID="396" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" group-title="Koreans",Kplus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
-
-#EXTINF:0 tvg-ID="SBS.kr" tvg-logo="https://i.imgur.com/Wb4hKP0.png" group-title="Koreans",SBS
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
 
 ========================================================================================== CARTOON =================================================================================================================
 
