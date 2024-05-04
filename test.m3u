@@ -67,7 +67,7 @@ https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/manifest.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://i.imgur.com/rM3Lq8P.png",Astro Ria
-http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
+http://akzxbeg.mexamo.xyz:80/7487972181/2633400566/191867
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
