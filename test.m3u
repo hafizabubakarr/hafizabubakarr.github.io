@@ -1,5 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml" tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml" refresh="3600"
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f84fbe826d15755ef91ebcab67c57d10:6a136b65d2d45699cb1e98506dfa1bee
+#EXTINF:-1 tvg-id="123" tvg-logo="https://i.imgur.com/x90U1Bf.png" , Awesome TV
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/manifest.mpd
+
 #EXTINF:-1 tvg-id="101" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1 
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
@@ -14,6 +19,11 @@ https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9be
 #EXTINF:-1 tvg-id="004" tvg-logo="https://i.imgur.com/bK8UH9D.png",TV6
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+#EXTINF:-1 tvg-id="149" tvg-logo="https://i.imgur.com/Krh1F8d.png", TV9
+https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=o8QcexxKwB0XpAd6gGBRsOeMRT8glHm9TrkzoJCnOoSMccJIE%2FE%2B84pyoUIPyfLH36dg7b38m%2BOCNKS05VJbJZz3fyUMhw7Iukv7S74gmAuVFRTQiCcWXuFIeO21qkbF%3A20231014115600%3AUTC%2C10001003834760%2C115.164.45.109%2C20231014115600%2Curn:Huawei:liveTV:iptv185%2C10001003834760%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000106857221%2C0%2C10000104578885%2C2677530261%2C%2C%2C2%2C1%2CEND&istv=5423&GuardEncType=2&it=H4sIAAAAAAAAADWOQY-CMBhE_02PTWlR7KEnjYnJht1E9GoG-lGJhbotmvjvFcXrzLzJGyMa2m2M1TYnTXW-gM0htV5RrWVbQAuSqrAs0X8ZjGQNvO8GVwY7Ycf9-pQJLriUGc8Uq6a7rYebl-Wtryka9cX2FO9dQ8amlt-ROJyL5DB2YeB_Ho9D9POEUTWrZUtdSF0slBBLxcYprZAur4adkdahvyKS_QnuDZgWPhG7ornAUYmezHDz_sP9RvuyeQIKarpc9AAAAA&tenantId=6003
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -49,11 +59,12 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-id="007" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Bernama_logo.png",Bernama
 https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
-#EXTINF:-1 tvg-id="410" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-#EXTINF:-1 tvg-id="501" tvg-logo="https://i.imgur.com/dLzgBUj.png",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="501"  tvg-logo="https://i.imgur.com/dLzgBUj.png", Astro Awani
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/manifest.mpd
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://i.imgur.com/rM3Lq8P.png",Astro Ria
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
@@ -62,7 +73,7 @@ http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="106" tvg-logo="https://i.imgur.com/5zS4eFG.png", Astro Oasis
+#EXTINF:-1 tvg-id="106" tvg-logo="https://i.imgur.com/5zS4eFG.png", Astro Oasis HD
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
