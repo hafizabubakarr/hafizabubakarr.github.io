@@ -263,9 +263,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/126/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lFjtduhfGtiqfu/NvWKJCA", "kid":"evPsHy2wd65jdKAYy7SFEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
 
-#EXTINF:0 group-title="Radios" tvg-ID="KlasikNasionalFM" tvg-name="Klasik Nasional FM", Klasik Nasional FM
-https://23693.live.streamtheworld.com/RADIO_KLASIKAAC.aac
-
 #EXTINF:0 group-title="Radios" tvg-ID="ERA" tvg-name="Era FM",Era FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVWfzBIFLZ5/zg+PZZK7oQ", "kid":"hSlCUcius3NonqoOqVh4EA" } ], "type":"temporary" }
@@ -275,12 +272,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/118/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
-
-#EXTINF:0 group-title="Radios" tvg-ID="Hot FM" tvg-name="Hot FM",Hot FM
-http://mediaprima.rastream.com/mediaprima-hotfm.android
-
-#EXTINF:0 group-title="Radios" tvg-ID="V.FM.my" tvg-name="Sabah Vfm" ,Sabah Vfm
-https://23733.live.streamtheworld.com/SABAH_VFMAAC.aac
 
 #EXTINF:0 group-title="Radios" tvg-ID="AIFM" tvg-name="AI FM",AI FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -302,9 +293,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/135/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Qz+mjW7JgGdclrta4uAXiQ", "kid":"j2GMEpVaxcQx9fkBRRydEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
 
-#EXTINF:0 group-title="Radios" tvg-ID=",RadioARENA" tvg-name="Radio ARENA",Radio ARENA
-http://astro1.rastream.com/amp-arena?type=.flv
-
 #EXTINF:0 group-title="Radios" tvg-ID="VFM" tvg-name="V.FM.my" ,V.FM.my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V9QpBgepo6Fj3gc4j831jQ", "kid":"7U3HtuIiXEVjTp1jJyqbEA" } ], "type":"temporary" }
@@ -315,8 +303,3 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/133/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BYeQ+4hhPmpxAoqvoiWEAw", "kid":"jZum9isUpdVwayEAe8ITEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
 
-#EXTINF:0 group-title="Radios" tvg-ID="AMBOIFM" tvg-name="AMBOI FM" ,AMBOI FM
-http://node-02.zeno.fm/555kr7upam0uv.aac?rj-ttl=5&rj-tok=AAABeT8e5HIA8EFX1cMpkIyLsw
-
-#EXTINF:0 group-title="Radios" tvg-ID="ONEFM" tvg-name=",ONE FM",ONE FM
-https://mediaprima.rastream.com/mediaprima-onefm
