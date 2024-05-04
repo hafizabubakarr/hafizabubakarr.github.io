@@ -221,167 +221,102 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="003" group-title="Sports" tvg-logo="https://i.imgur.com/1pYYSu2.png",Sukan RTM 
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-id="44" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket
+#EXTINF:-1 tvg-id="824" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-#EXTINF:0 tvg-name="Astrosports 1" tvg-ID="AstroSupersport" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg" group-title="MY-AR",Astrosports 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
-
-#EXTINF:0 tvg-name="Astrosports 2" tvg-ID="AstroSupersport2" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg" group-title="MY-AR",Astrosports 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
-https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
-
-#EXTINF:0 tvg-name="Astrosports 3" tvg-ID="AstroSupersport3" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg" group-title="MY-AR",Astrosports 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
-https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
-
-#EXTINF:0 tvg-name="Astrosports 4" tvg-ID="AstroSupersport4" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg" group-title="MY-AR",Astrosports 4
+#EXTINF:0 group-title="Sports" tvg-ID="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png", Astro Supersport 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
-#EXTINF:0 tvg-name="Astro Arena" tvg-ID="AstroArena" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" group-title="MY-AR",Astro Arena
+#EXTINF:0 group-title="Sports" tvg-ID="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png", Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
-#EXTINF:0 tvg-name="BT Sport HD 1" tvg-ID="2889" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a66ddccb7a5d1b4a98018e543d160ee.jpeg" group-title="MY-AR",BT Sport HD 1
-http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
-
-#EXTINF:0 tvg-name="BT Sport HD 2" tvg-ID="BT Sport 2 UK" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/BT-Sport-2.png" group-title="MY-AR",BT Sport HD 2
-http://iptv.tvmalaysia.cc/jalan8/jalan8/6611
-
-#EXTINF:0 tvg-name="BT Sport HD 3" tvg-ID="BT Sport 3 UK" tvg-logo="https://tbivision.com/files/2019/02/BT-Sport.jpg" group-title="MY-AR",BT Sport HD 3
-http://iptv.tvmalaysia.cc/jalan8/jalan8/6612
-
-#EXTINF:0 tvg-name="True Premier HD2" tvg-ID="TrueSport2.th" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="MY-AR",True Premier HD2
-https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/thd3/playlist.m3u8
-
-#EXTINF:0 tvg-name="True Premier HD4" tvg-ID="truesporthd4.th" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" group-title="MY-AR",True Premier HD4
-https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/tpf4/playlist.m3u8
-
-#EXTINF:0 tvg-name="Bein Sports HD 1" tvg-ID="beINSports" tvg-logo="https://i2.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein1.png" group-title="MY-AR",Bein Sports HD 1
+#EXTINF:0 group-title="Sports" " tvg-ID="818" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" ,Bein Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 
-#EXTINF:0 tvg-name="Bein Sports HD 2" tvg-ID="beINSports2" tvg-logo="https://i0.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein2.png" group-title="MY-AR",Bein Sports HD 2
+#EXTINF:0 group-title="Sports" tvg-ID="817" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" ,Bein Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
-#EXTINF:0 tvg-name="Champions TV 1" tvg-logo="https://i.imgur.com/GdIXusA.png" group-title="MY-AR",Champions TV 1
-http://dituduhmaling.xyz/V11710/championstv1.m3u8
-
-#EXTINF:0 tvg-name="Champions TV 2" tvg-logo="https://i.imgur.com/sizF3bc.png" group-title="MY-AR",Champions TV 2
-http://dituduhmaling.xyz/V11710/championstv2.m3u8
-
-#EXTINF:0 tvg-name="Champions TV 3" tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="MY-AR",Champions TV 3
-http://dituduhmaling.xyz/V11710/championstv3.m3u8
-
-#EXTINF:0 tvg-name="S Football" tvg-logo="https://lh6.googleusercontent.com/-WXfxVJe3w9o/TOaPi5eovkI/AAAAAAAAAQY/088BxWzjFiA/s1600/SuperSport+logo+2010+asteroid+3D.jpg" group-title="MY-AR",S Football
-http://iptv.tvmalaysia.cc/live/932633/932633/6575.ts
-
-#EXTINF:0 tvg-name="MUTV" tvg-ID="MUTV.uk" tvg-logo="https://apprecs.org/ios/images/app-icons/256/ed/1169885165.jpg" group-title="MY-AR",MUTV
-http://protv-nordic.club:8080/julia/julia123/28660
-
-#EXTINF:0 tvg-name="LFCTV" tvg-ID="LFCTV.uk" tvg-logo="https://e0.365dm.com/18/05/512x512/skysports-lfctv-ass_4298877.jpg" group-title="MY-AR",LFCTV
-http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
-
-#EXTINF:0 tvg-name="Red Bull TV" tvg-ID="Aberdeen.spfl.uk" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" group-title="MY-AR",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:0 tvg-name="WWE Network" tvg-ID="WWENetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="MY-AR",WWE Network
+#EXTINF:0 group-title="Sports" tvg-ID="821" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" , WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
-#EXTINF:0 tvg-name="Sky 1 Racing" tvg-ID="UK Sky Sport Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="MY-AR",Sky 1 Racing
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-
-#EXTINF:0 tvg-name="Sky 2 Racing" tvg-ID="SkySportsRacing.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="MY-AR",Sky 2 Racing
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-
-#EXTINF:0 tvg-name="Rugby World TV" tvg-logo="https://resources.world.rugby/worldrugby/photo/2020/05/05/721c7185-6499-4733-97e6-4839045722dd/WorldRugby_SEO_metaimage_branded-1-.png" group-title="MY-AR",Rugby World TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-
-#EXTINF:0 tvg-name="THR GEGAR" tvg-ID="GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="Radio-AR",THR GEGAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
-
 ========================================================================================== RADIO =================================================================================================================
 
-#EXTINF:0 tvg-name="THR GEGAR" tvg-ID="GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="Radio-AR",THR GEGAR
+#EXTINF:0 group-title="Radios" tvg-ID="THRGEGAR" tvg-name="THR GEGAR",THR GEGAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
 
-#EXTINF:0 tvg-name="Sinar FM" tvg-ID="SINAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Radio-AR",Sinar FM
+#EXTINF:0 group-title="Radios" tvg-ID="SINAR" tvg-name="Sinar FM",Sinar FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lFjtduhfGtiqfu/NvWKJCA", "kid":"evPsHy2wd65jdKAYy7SFEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
 
-#EXTINF:0 tvg-name="Klasik Nasional FM" tvg-ID="classic.rock.my" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/Klasik-Nasional-FM-1.jpg" group-title="Radio-AR",Klasik Nasional FM
+#EXTINF:0 group-title="Radios" tvg-ID="KlasikNasionalFM" tvg-name="Klasik Nasional FM", Klasik Nasional FM
 https://23693.live.streamtheworld.com/RADIO_KLASIKAAC.aac
 
-#EXTINF:0 tvg-name="Era FM" tvg-ID="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Radio-AR",Era FM
+#EXTINF:0 group-title="Radios" tvg-ID="ERA" tvg-name="Era FM",Era FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVWfzBIFLZ5/zg+PZZK7oQ", "kid":"hSlCUcius3NonqoOqVh4EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
 
-#EXTINF:0 tvg-name="Hitz FM" tvg-ID="HITZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio-AR",Hitz FM
+#EXTINF:0 group-title="Radios" tvg-ID="HITZ" tvg-name="Hot FM",Hitz FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
 
-#EXTINF:0 tvg-name="Hot FM" tvg-ID="ASYIK.FM.my" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/s9WDrbaf5Z.png" group-title="Radio-AR",Hot FM
+#EXTINF:0 group-title="Radios" tvg-ID="Hot FM" tvg-name="Hot FM",Hot FM
 http://mediaprima.rastream.com/mediaprima-hotfm.android
 
-#EXTINF:0 tvg-name="Sabah Vfm" tvg-ID="V.FM.my" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/sabah-fm-220x108.jpeg" group-title="Radio-AR",Sabah Vfm
+#EXTINF:0 group-title="Radios" tvg-ID="V.FM.my" tvg-name="Sabah Vfm" ,Sabah Vfm
 https://23733.live.streamtheworld.com/SABAH_VFMAAC.aac
 
-#EXTINF:0 tvg-name="AI FM" tvg-ID="AIFM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/03/AI-FM-Logo-01.png" group-title="Radio-AR",AI FM
+#EXTINF:0 group-title="Radios" tvg-ID="AIFM" tvg-name="AI FM",AI FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L2HWbPzhK8sFZXFRCZnzvw", "kid":"mdAGD00zM76QsMrmrdtDEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/140/default_primary.mpd
 
-#EXTINF:0 tvg-name="ASYIK FM" tvg-ID="ASYIKFM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png" group-title="Radio-AR",ASYIK FM
+#EXTINF:0 group-title="Radios" tvg-ID="ASYIKFM" tvg-name="ASYIK FM",ASYIK FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jBmOlxGeRtrZpNaT9agq/w", "kid":"ugGy9zx2Qy5kkJJ2fxBwEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
 
-#EXTINF:0 tvg-name="BAYU" tvg-ID="BAYU" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="Radio-AR",BAYU
+#EXTINF:0 group-title="Radios" tvg-ID="BAYU" tvg-name="BAYU",BAYU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9yw4BYGqEqAW6oh4nGecZw", "kid":"VRXU8iZk44bGL3zywWarEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd
 
-#EXTINF:0 tvg-name="MY FM" tvg-ID="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="Radio-AR",MY FM
+#EXTINF:0 group-title="Radios" tvg-ID="MYFM" tvg-name="MY FM",MY FM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Qz+mjW7JgGdclrta4uAXiQ", "kid":"j2GMEpVaxcQx9fkBRRydEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
 
-#EXTINF:0 tvg-name="Radio ARENA" tvg-ID="astroarena.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/304_144.png" group-title="Radio-AR",Radio ARENA
+#EXTINF:0 group-title="Radios" tvg-ID=",RadioARENA" tvg-name="Radio ARENA",Radio ARENA
 http://astro1.rastream.com/amp-arena?type=.flv
 
-#EXTINF:0 tvg-name="V FM" tvg-ID="V.FM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png" group-title="Radio-AR",V FM
+#EXTINF:0 group-title="Radios" tvg-ID="VFM" tvg-name="V.FM.my" ,V.FM.my
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V9QpBgepo6Fj3gc4j831jQ", "kid":"7U3HtuIiXEVjTp1jJyqbEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd
 
-#EXTINF:0 tvg-name="THR RAAGA" tvg-ID="RAAGA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="Radio-AR",THR RAAGA
+#EXTINF:0 group-title="Radios" tvg-ID="THRRAAGA" tvg-name="THR RAAGA",THR RAAGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BYeQ+4hhPmpxAoqvoiWEAw", "kid":"jZum9isUpdVwayEAe8ITEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
 
-#EXTINF:0 tvg-name="AMBOI FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/amboi.png" group-title="Radio-AR",AMBOI FM
+#EXTINF:0 group-title="Radios" tvg-ID="AMBOIFM" tvg-name="AMBOI FM" ,AMBOI FM
 http://node-02.zeno.fm/555kr7upam0uv.aac?rj-ttl=5&rj-tok=AAABeT8e5HIA8EFX1cMpkIyLsw
 
-#EXTINF:0 tvg-name="ONE FM" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/07/one-fm-vector-logo.png" group-title="Radio-AR",ONE FM
+#EXTINF:0 group-title="Radios" tvg-ID="ONEFM" tvg-name=",ONE FM",ONE FM
 https://mediaprima.rastream.com/mediaprima-onefm
