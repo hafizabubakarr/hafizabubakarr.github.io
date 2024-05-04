@@ -206,7 +206,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Red+aounZ7Y8rP2wHvKsKQ", "kid":"2P45jHkGUXP6l4jyJgVlEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 
-#EXTINF:0 tvg-ID="396" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" group-title="Koreans",Kplus
+#EXTINF:0 tvg-ID="396" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/k-plus.png" group-title="Koreans",Kplus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"taOoAISBIMhDrg+mjAnCYQ", "kid":"qkiyi9cj+RIUiH327Z+tEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
@@ -226,3 +226,92 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
+#EXTINF:0 tvg-name="Astrosports 1" tvg-ID="AstroSupersport" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports1.jpg" group-title="MY-AR",Astrosports 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:0 tvg-name="Astrosports 2" tvg-ID="AstroSupersport2" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports2.jpg" group-title="MY-AR",Astrosports 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
+
+#EXTINF:0 tvg-name="Astrosports 3" tvg-ID="AstroSupersport3" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports3.jpg" group-title="MY-AR",Astrosports 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+
+#EXTINF:0 tvg-name="Astrosports 4" tvg-ID="AstroSupersport4" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/Astrosports4.jpg" group-title="MY-AR",Astrosports 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
+
+#EXTINF:0 tvg-name="Astro Arena" tvg-ID="AstroArena" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Ct3sncQXg6.png" group-title="MY-AR",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Z3aYWTizMhZLl7gf5WajSg", "kid":"79pkfa1yNWO2Jb6MBe5hEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+
+#EXTINF:0 tvg-name="BT Sport HD 1" tvg-ID="2889" tvg-logo="https://www.logolynx.com/images/logolynx/6a/6a66ddccb7a5d1b4a98018e543d160ee.jpeg" group-title="MY-AR",BT Sport HD 1
+http://stream.tvtap.live:8081/live/bt1.stream/playlist.m3u8
+
+#EXTINF:0 tvg-name="BT Sport HD 2" tvg-ID="BT Sport 2 UK" tvg-logo="https://raw.githubusercontent.com/jeffsrightnow/sensasi/master/BT-Sport-2.png" group-title="MY-AR",BT Sport HD 2
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6611
+
+#EXTINF:0 tvg-name="BT Sport HD 3" tvg-ID="BT Sport 3 UK" tvg-logo="https://tbivision.com/files/2019/02/BT-Sport.jpg" group-title="MY-AR",BT Sport HD 3
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6612
+
+#EXTINF:0 tvg-name="True Premier HD2" tvg-ID="TrueSport2.th" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-2-1819.png" group-title="MY-AR",True Premier HD2
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/thd3/playlist.m3u8
+
+#EXTINF:0 tvg-name="True Premier HD4" tvg-ID="truesporthd4.th" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png" group-title="MY-AR",True Premier HD4
+https://r2-sn-w5nuxa-o536.googlevideocdn.com/skycore/tpf4/playlist.m3u8
+
+#EXTINF:0 tvg-name="Bein Sports HD 1" tvg-ID="beINSports" tvg-logo="https://i2.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein1.png" group-title="MY-AR",Bein Sports HD 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:0 tvg-name="Bein Sports HD 2" tvg-ID="beINSports2" tvg-logo="https://i0.wp.com/www.stream7hd.com/wp-content/uploads/2021/03/bein2.png" group-title="MY-AR",Bein Sports HD 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
+
+#EXTINF:0 tvg-name="Champions TV 1" tvg-logo="https://i.imgur.com/GdIXusA.png" group-title="MY-AR",Champions TV 1
+http://dituduhmaling.xyz/V11710/championstv1.m3u8
+
+#EXTINF:0 tvg-name="Champions TV 2" tvg-logo="https://i.imgur.com/sizF3bc.png" group-title="MY-AR",Champions TV 2
+http://dituduhmaling.xyz/V11710/championstv2.m3u8
+
+#EXTINF:0 tvg-name="Champions TV 3" tvg-logo="https://i.postimg.cc/K8kx7J1V/CHAMPION-TV-3.png" group-title="MY-AR",Champions TV 3
+http://dituduhmaling.xyz/V11710/championstv3.m3u8
+
+#EXTINF:0 tvg-name="S Football" tvg-logo="https://lh6.googleusercontent.com/-WXfxVJe3w9o/TOaPi5eovkI/AAAAAAAAAQY/088BxWzjFiA/s1600/SuperSport+logo+2010+asteroid+3D.jpg" group-title="MY-AR",S Football
+http://iptv.tvmalaysia.cc/live/932633/932633/6575.ts
+
+#EXTINF:0 tvg-name="MUTV" tvg-ID="MUTV.uk" tvg-logo="https://apprecs.org/ios/images/app-icons/256/ed/1169885165.jpg" group-title="MY-AR",MUTV
+http://protv-nordic.club:8080/julia/julia123/28660
+
+#EXTINF:0 tvg-name="LFCTV" tvg-ID="LFCTV.uk" tvg-logo="https://e0.365dm.com/18/05/512x512/skysports-lfctv-ass_4298877.jpg" group-title="MY-AR",LFCTV
+http://178.175.132.170:8888/02_lfctv_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-name="Red Bull TV" tvg-ID="Aberdeen.spfl.uk" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41PJEF5JKLL.jpg" group-title="MY-AR",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:0 tvg-name="WWE Network" tvg-ID="WWENetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="MY-AR",WWE Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
+
+#EXTINF:0 tvg-name="Sky 1 Racing" tvg-ID="UK Sky Sport Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="MY-AR",Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+
+#EXTINF:0 tvg-name="Sky 2 Racing" tvg-ID="SkySportsRacing.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Sky_au_racing.png" group-title="MY-AR",Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+#EXTINF:0 tvg-name="Rugby World TV" tvg-logo="https://resources.world.rugby/worldrugby/photo/2020/05/05/721c7185-6499-4733-97e6-4839045722dd/WorldRugby_SEO_metaimage_branded-1-.png" group-title="MY-AR",Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+
+#EXTINF:0 tvg-name="THR GEGAR" tvg-ID="GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="Radio-AR",THR GEGAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
