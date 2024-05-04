@@ -15,6 +15,9 @@ https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9be
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
+#EXTINF:-1 tvg-id="112" tvg-name="TVS" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_TVS.png", TVS
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+
 #EXTINF:-1 tvg-id="148" tvg-logo="https://i.imgur.com/Jkx9W88.png",8TV
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8
 
