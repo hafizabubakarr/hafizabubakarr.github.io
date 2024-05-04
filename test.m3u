@@ -32,6 +32,51 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/inde
 #EXTINF:-1 tvg-id="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/512px-TVS_Sarawak.jpg", TVS
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
+-----------------BOO---------------------------------------
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="BOO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Malaysia",BOO
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
+------------------------------------------------------------
+
+------------------NAURA-------------------------------------
+#EXTINF:-1 tvg-id="AstroRania" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",Naura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/608/default.mpd
+------------------------------------------------------------
+
+-----------------HELLO--------------------------------------
+#EXTINF:-1 tvg-id="AstroPremier" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/296_144.png",Hello
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
+-------------------------------------------------------------
+
+-------------------BERNAMA--------------------------------------
+#EXTINF:-1 tvg-id="BERNAMA" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png",BERNAMA 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OaJ6osyEoptmX8xNv5xUtg","kid":"FAa78hjKFPlnA0/PSr93EA"}],"type":"temporary"}
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default_primary.mpd
+-----------------------------------------------------------------
+
+-------------------BERITA RTM------------------------------------
+#EXTINF:-1 tvg-id="BERITA RTM" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+------------------------------------------------------------------
+
+-------------------RTM SPORTS------------------------------------
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest?cb=20210408125347",RTM Sports HD
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+------------------------------------------------------------------
+
+-------------------ASTRO CITRA------------------------------------
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="ASTRO CITRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="MOVIES",ASTRO CITRA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2700/default_primary.mpd
+------------------------------------------------------------------
+
 #EXTINF:-1 tvg-id="148" tvg-logo="https://i.imgur.com/Jkx9W88.png",8TV
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8
 
@@ -59,27 +104,6 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-id="007" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Bernama_logo.png",Bernama
 https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
-
---------------------ASTRO RIA---------------------------
-#EXTINF:-1 tvg-id="AstroRia" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png",ASTRO RIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
---------------------------------------------------------
-
--------------------ASTRO PRIMA--------------------------
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPrima" tvg-name="ASTRO PRIMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="Malaysia",ASTRO PRIMA HD
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
-----------------------------------------------------------
-
-------------------ASTRO WARNA----------------------------
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="ASTRO WARNA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="Malaysia",ASTRO WARNA HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2402/default_primary.mpd
------------------------------------------------------------
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
