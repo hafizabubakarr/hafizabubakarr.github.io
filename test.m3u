@@ -23,7 +23,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #EXTINF:-1 tvg-id="149" tvg-logo="https://i.imgur.com/Krh1F8d.png", TV9
-https://web.hypp.tv:443/PLTV/88888888/224/3221227483/3221227483.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=o8QcexxKwB0XpAd6gGBRsOeMRT8glHm9TrkzoJCnOoSMccJIE%2FE%2B84pyoUIPyfLH36dg7b38m%2BOCNKS05VJbJZz3fyUMhw7Iukv7S74gmAuVFRTQiCcWXuFIeO21qkbF%3A20231014115600%3AUTC%2C10001003834760%2C115.164.45.109%2C20231014115600%2Curn:Huawei:liveTV:iptv185%2C10001003834760%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000106857221%2C0%2C10000104578885%2C2677530261%2C%2C%2C2%2C1%2CEND&istv=5423&GuardEncType=2&it=H4sIAAAAAAAAADWOQY-CMBhE_02PTWlR7KEnjYnJht1E9GoG-lGJhbotmvjvFcXrzLzJGyMa2m2M1TYnTXW-gM0htV5RrWVbQAuSqrAs0X8ZjGQNvO8GVwY7Ycf9-pQJLriUGc8Uq6a7rYebl-Wtryka9cX2FO9dQ8amlt-ROJyL5DB2YeB_Ho9D9POEUTWrZUtdSF0slBBLxcYprZAur4adkdahvyKS_QnuDZgWPhG7ornAUYmezHDz_sP9RvuyeQIKarpc9AAAAA&tenantId=6003
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -108,11 +108,11 @@ https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u
 #EXTINF:-1 tvg-id="405" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",HBO Plus
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
-#EXTINF:-1 tvg-id="416" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN Movies
-http://210.210.155.37/dr9445/h/h21/index.m3u8
-
 #EXTINF:-1 tvg-id="392" tvg-logo="https://i.imgur.com/7DqgELX.png",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-id="416" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN Movies
+http://210.210.155.37/dr9445/h/h21/index.m3u8
 
 #EXTINF:-1 tvg-id="395" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",tvN
 https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
