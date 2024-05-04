@@ -315,3 +315,73 @@ https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
+
+========================================================================================== RADIO =================================================================================================================
+
+#EXTINF:0 tvg-name="THR GEGAR" tvg-ID="GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" group-title="Radio-AR",THR GEGAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oP7KOBC5InWSvYk7+58fiQ", "kid":"cLap0cX10nWszwqMUdv3EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/126/default_primary.mpd
+
+#EXTINF:0 tvg-name="Sinar FM" tvg-ID="SINAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" group-title="Radio-AR",Sinar FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lFjtduhfGtiqfu/NvWKJCA", "kid":"evPsHy2wd65jdKAYy7SFEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/130/default_primary.mpd
+
+#EXTINF:0 tvg-name="Klasik Nasional FM" tvg-ID="classic.rock.my" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/Klasik-Nasional-FM-1.jpg" group-title="Radio-AR",Klasik Nasional FM
+https://23693.live.streamtheworld.com/RADIO_KLASIKAAC.aac
+
+#EXTINF:0 tvg-name="Era FM" tvg-ID="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" group-title="Radio-AR",Era FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TVWfzBIFLZ5/zg+PZZK7oQ", "kid":"hSlCUcius3NonqoOqVh4EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/118/default_primary.mpd
+
+#EXTINF:0 tvg-name="Hitz FM" tvg-ID="HITZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio-AR",Hitz FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ltoLvoO49UGU5CQo4f1mMg", "kid":"x1n0vBV7AKex26eHMZf8EA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/121/default_primary.mpd
+
+#EXTINF:0 tvg-name="Hot FM" tvg-ID="ASYIK.FM.my" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/s9WDrbaf5Z.png" group-title="Radio-AR",Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm.android
+
+#EXTINF:0 tvg-name="Sabah Vfm" tvg-ID="V.FM.my" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2011/06/sabah-fm-220x108.jpeg" group-title="Radio-AR",Sabah Vfm
+https://23733.live.streamtheworld.com/SABAH_VFMAAC.aac
+
+#EXTINF:0 tvg-name="AI FM" tvg-ID="AIFM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2016/03/AI-FM-Logo-01.png" group-title="Radio-AR",AI FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L2HWbPzhK8sFZXFRCZnzvw", "kid":"mdAGD00zM76QsMrmrdtDEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/140/default_primary.mpd
+
+#EXTINF:0 tvg-name="ASYIK FM" tvg-ID="ASYIKFM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png" group-title="Radio-AR",ASYIK FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jBmOlxGeRtrZpNaT9agq/w", "kid":"ugGy9zx2Qy5kkJJ2fxBwEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/141/default_primary.mpd
+
+#EXTINF:0 tvg-name="BAYU" tvg-ID="BAYU" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" group-title="Radio-AR",BAYU
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9yw4BYGqEqAW6oh4nGecZw", "kid":"VRXU8iZk44bGL3zywWarEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/135/default_primary.mpd
+
+#EXTINF:0 tvg-name="MY FM" tvg-ID="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="Radio-AR",MY FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Qz+mjW7JgGdclrta4uAXiQ", "kid":"j2GMEpVaxcQx9fkBRRydEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/119/default_primary.mpd
+
+#EXTINF:0 tvg-name="Radio ARENA" tvg-ID="astroarena.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/304_144.png" group-title="Radio-AR",Radio ARENA
+http://astro1.rastream.com/amp-arena?type=.flv
+
+#EXTINF:0 tvg-name="V FM" tvg-ID="V.FM.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/29_144.png" group-title="Radio-AR",V FM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"V9QpBgepo6Fj3gc4j831jQ", "kid":"7U3HtuIiXEVjTp1jJyqbEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/133/default_primary.mpd
+
+#EXTINF:0 tvg-name="THR RAAGA" tvg-ID="RAAGA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" group-title="Radio-AR",THR RAAGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BYeQ+4hhPmpxAoqvoiWEAw", "kid":"jZum9isUpdVwayEAe8ITEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/134/default_primary.mpd
+
+#EXTINF:0 tvg-name="AMBOI FM" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-my/amboi.png" group-title="Radio-AR",AMBOI FM
+http://node-02.zeno.fm/555kr7upam0uv.aac?rj-ttl=5&rj-tok=AAABeT8e5HIA8EFX1cMpkIyLsw
+
+#EXTINF:0 tvg-name="ONE FM" tvg-logo="https://seekvectorlogo.net/wp-content/uploads/2018/07/one-fm-vector-logo.png" group-title="Radio-AR",ONE FM
+https://mediaprima.rastream.com/mediaprima-onefm
