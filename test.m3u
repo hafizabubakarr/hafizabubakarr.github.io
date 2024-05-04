@@ -69,7 +69,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Dw6mw1Q8Kdf1E+uIbrdPiA", "kid":"tuYMoNKOj5c5Xwe04uU6EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="601" tvg-logo="https://i.imgur.com/pjqtJKW.png",Astro Cerita
+#EXTINF:-1 tvg-id="601" tvg-logo="https://i.imgur.com/pjqtJKW.png",Astro Ceria
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2606/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
