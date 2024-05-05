@@ -2,7 +2,7 @@
 
 ========================================================================================== MYTV =================================================================================================================
 
-#EXTINF:-1 tvg-id="101" ch-number="101" group-title="MYTV" group-logo="https://mytvbroadcasting.my/wp-content/uploads/2022/07/logo.png" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1 
+#EXTINF:-1 tvg-id="101" ch-number="101" group-title="MYTV" group-logo="https://graduan.sgp1.cdn.digitaloceanspaces.com/media/602813/thumb/3a88408c-c165-11ed-b0db-aa91bde98a27.png" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
