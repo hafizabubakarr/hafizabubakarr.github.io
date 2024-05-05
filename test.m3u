@@ -2,7 +2,7 @@
 
 ========================================================================================== MYTV =================================================================================================================
 
-#EXTINF:-1 tvg-id="101" ch-number="101" group-title="MYTV" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1 
+#EXTINF:-1 tvg-id="101" ch-number="101" group-title="MYTV" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MYTV_Malaysia_Logo.png" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
@@ -293,17 +293,22 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #EXTINF:-1 tvg-id="AstroArenaBola3" tvg-name="Astro Arena Bola 3" group-title="LIGA2023" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://speedtrademarket.com/live/logo/arenabola_logo.png",ARENA BOLA 3 CH807 (SOOKA)
 https://linear03-playback.sooka.my/CH3/masterCH3.mpd
 
-#EXTINF:-1 tvg-id="815" group-title="Sports" tvg-logo="https://telegra.ph/file/a75a3433be5f2bbff15f0.png", W-Sport
+#EXTINF:-1 tvg-id="AstroArena2" group-title="Sports" ch-number="802" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroArena2.png",Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HuOyUiJ8XC7JN4yDPS4U/w", "kid":"6tAzXWBAEiVyem1THpwnEA" } ], "type":"temporary" }
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+
+#EXTINF:-1 tvg-id="815" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png", W-Sport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5060/
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5060/default.mpd
 
-#EXTINF:-1 tvg-id="816" group-title="Sports" tvg-logo="https://telegra.ph/file/0f50aab47d268d6202749.png",SPOTV
+#EXTINF:-1 tvg-id="816" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5058
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5058/default.mpd
 
-#EXTINF:-1 tvg-id="817" group-title="Sports" tvg-logo="https://telegra.ph/file/b0dce0ceef587702ca48b.png",SPOTV2
+#EXTINF:-1 tvg-id="810" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png",SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=Miepalong7&channelid=5079/
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5079/default.mpd
