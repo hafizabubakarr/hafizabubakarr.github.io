@@ -216,6 +216,26 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.mp
 #EXTINF:-1 tvg-id="615" group-title="Cartoons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
+#EXTINF:-1 tvg-id="613" group-title="CARTOONS" tvg-logo="https://telegra.ph/file/468822337c928926dd081.png",Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
+
+#EXTINF:-1 tvg-id="614" group-title="CARTOONS" tvg-logo="https://telegra.ph/file/f744ebdcac7e8b8ee62d0.png",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3mxf6q5faWO0s5LdyLaneA", "kid":"UMaZxETl+A2sr8TJlmfYEA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
+
+#EXTINF:-1 tvg-id="616" group-title="CARTOONS" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
+
+#EXTINF:-1 tvg-id="617" group-title="CARTOONS" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+
 ========================================================================================== SPORT =================================================================================================================
 
 #EXTINF:-1 tvg-id="003" group-title="Sports" tvg-logo="https://i.imgur.com/1pYYSu2.png",Sukan RTM 
@@ -253,33 +273,27 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_primary.mp
 
 ========================================================================================== NATURE =================================================================================================================
 
-#EXTINF:-1 tvg-id="550" group-title="Learning" tvg-logo="https://telegra.ph/file/9d3925f1e10917372eeaf.png",Nat Geo Wild
+#EXTINF:-1 tvg-id="550" group-title="Learning" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",Love Nature
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d1plTAYQgRrQIjKaaIhN4Q", "kid":"FovYFUaGOf5FKLS/AUHzEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5096/default.mpd
 
-#EXTINF:-1 tvg-id="551" group-title="Learning" tvg-logo="https://telegra.ph/file/43286c3eb21cb8c780758.png",Nat Geo
+#EXTINF:-1 tvg-id="551" group-title="Learning" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/482_144.png",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default.mpd
-
-#EXTINF:-1, group-title="Learning" tvg-logo="https://telegra.ph/file/3b454ca25d6e366b02f24.png",Discovery Life
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
-
-#EXTINF:-1, group-title="Learning" tvg-logo="https://telegra.ph/file/625b5253d10c329d84aff.png",Discovery Investigation
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
 
 #EXTINF:-1 tvg-id="552" group-title="Learning" tvg-logo="https://telegra.ph/file/115360a81fb3890f5101f.png",Discovery Channel 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2510/default.mpd
 
-#EXTINF:-1 tvg-id="554" group-title="Learning" tvg-logo="https://telegra.ph/file/fe3cbfb8b107028b0ab52.png",Discovery Science 
+#EXTINF:-1 tvg-id="554" group-title="Learning" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png",BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5051/default.mpd
 
-#EXTINF:-1 tvg-id="555" group-title="Learning" tvg-logo="https://telegra.ph/file/316c394731adf881f77d3.png",History
+#EXTINF:-1 tvg-id="555" group-title="Learning" tvg-logo="https://telegra.ph/file/316c394731adf881f77d3.png",History HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
