@@ -13,11 +13,11 @@ https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/inde
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8
 
 #EXTINF:-1 tvg-id="103" ch-number="103" group-title="MYTV" tvg-logo="https://i.imgur.com/bHcZgIo.png", TV3
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv3/index.m3u8
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-id="109" ch-number="109" group-title="MYTV" tvg-logo="https://i.imgur.com/bK8UH9D.png", TV6
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
@@ -41,7 +41,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-id="146" group-title="MYTV" tvg-logo="https://i.imgur.com/V2jREQ5.png",Okey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8
 
 #EXTINF:-1 tvg-id="002" group-title="MYTV" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220810/20220810211708829sbp.png",RTM Parlimen
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
