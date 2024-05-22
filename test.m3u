@@ -3,13 +3,9 @@
 ========================================================================================== MYTV =================================================================================================================
 
 #EXTINF:-1 tvg-id="101" ch-number="101" group-title="MYTV" group-logo="https://graduan.sgp1.cdn.digitaloceanspaces.com/media/602813/thumb/3a88408c-c165-11ed-b0db-aa91bde98a27.png" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
 http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1734 
 
 #EXTINF:-1 tvg-id="102" ch-number="102" group-title="MYTV" tvg-logo="https://i.imgur.com/LGEdeyJ.png",TV2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
 http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1733 
 
 #EXTINF:-1 tvg-id="103" ch-number="103" group-title="MYTV" tvg-logo="https://i.imgur.com/bHcZgIo.png", TV3
@@ -63,13 +59,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/manifest.mpd
 
 ========================================================================================== Astro =================================================================================================================
 
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41G_-Gitcfb71SZqS2-oc-k2bOzWqP4UCMUZJjvjAIHcM=bMDL/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://hbogo.skyforever.tk/go2go/ria/index.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 #EXTINF:-1 tvg-id="114" group-title="Astro" group-logo="https://play-lh.googleusercontent.com/duoRdfvWUXPs-zT_Xf-oQND9jmC5ZkZzYLpu58LR-VF4x5Epqp0NqT7GLVP2znKhn-M" tvg-logo="https://i.imgur.com/rKJjhv6.png",TV Alhijrah
@@ -88,12 +77,15 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png", Astro Awani
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/manifest.mpd
 
+#EXTINF:-1 tvg-id="106" group-title="Astro" tvg-logo="https://i.imgur.com/5zS4eFG.png", Astro Oasis HD
+http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1701 
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="106" group-title="Astro" tvg-logo="https://i.imgur.com/5zS4eFG.png", Astro Oasis HD
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
+#EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://i.imgur.com/5zS4eFG.png", Astro Ria
+http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1705 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
