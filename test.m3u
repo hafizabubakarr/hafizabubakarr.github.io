@@ -5,15 +5,15 @@
 #EXTINF:-1 tvg-id="101" ch-number="101" group-title="MYTV" group-logo="https://graduan.sgp1.cdn.digitaloceanspaces.com/media/602813/thumb/3a88408c-c165-11ed-b0db-aa91bde98a27.png" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vqLQ+J+z+6+h/J80uoc0pg", "kid":"kSdgxAnrWv8+BgQixQL0EA" } ], "type":"temporary" }
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8
+http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1734 
 
 #EXTINF:-1 tvg-id="102" ch-number="102" group-title="MYTV" tvg-logo="https://i.imgur.com/LGEdeyJ.png",TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JKmxeFmGKIfyj2PHwpvKpQ", "kid":"T4hUgf4FPlRAllMsHcuXEA" } ], "type":"temporary" }
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8
+http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1733 
 
 #EXTINF:-1 tvg-id="103" ch-number="103" group-title="MYTV" tvg-logo="https://i.imgur.com/bHcZgIo.png", TV3
-https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3|Referer=https://www.dailymotion.com
+http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1732 
 
 #EXTINF:-1 tvg-id="109" ch-number="109" group-title="MYTV" tvg-logo="https://i.imgur.com/bK8UH9D.png", TV6
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
