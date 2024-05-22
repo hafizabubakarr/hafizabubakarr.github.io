@@ -12,18 +12,11 @@ http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1733
 http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1732 
 
 #EXTINF:-1 tvg-id="109" ch-number="109" group-title="MYTV" tvg-logo="https://i.imgur.com/bK8UH9D.png", TV6
-#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
 #EXTINF:-1 tvg-id="149" group-title="MYTV" tvg-logo="https://i.imgur.com/Krh1F8d.png", TV9
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8
+http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1729
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="122" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/512px-TVS_Sarawak.jpg", TVS
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
@@ -80,10 +73,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/manifest.mpd
 #EXTINF:-1 tvg-id="106" group-title="Astro" tvg-logo="https://i.imgur.com/5zS4eFG.png", Astro Oasis HD
 http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1701 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://i.imgur.com/5zS4eFG.png", Astro Ria
 http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1705 
 
