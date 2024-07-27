@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml" tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml" refresh="3600"
+#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://AqFad2811.github.io/epg/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
 ========================================================================================== MYTV =================================================================================================================
 
@@ -54,12 +55,18 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
+EXTINF:-1 tvg-id="129" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
+https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+
+#EXTINF:-1 tvg-id="130" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",Dewan Negara
+https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+
 ========================================================================================== Astro =================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
 #EXTINF:-1 tvg-id="114" group-title="Astro" group-logo="https://play-lh.googleusercontent.com/duoRdfvWUXPs-zT_Xf-oQND9jmC5ZkZzYLpu58LR-VF4x5Epqp0NqT7GLVP2znKhn-M" tvg-logo="https://i.imgur.com/rKJjhv6.png",TV Alhijrah
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/manifest.mpd
+https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
 
 #EXTINF:-1 tvg-id="513" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
@@ -211,7 +218,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.mp
 ========================================================================================== Kids =================================================================================================================
 
 #EXTINF:-1 tvg-id="615" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="613" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png",Moonbug
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -226,12 +233,15 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mp
 #EXTINF:-1 tvg-id="616" group-title="Kids" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/Spongebob/live.m3u8
 
 #EXTINF:-1 tvg-id="617" group-title="Kids" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon Junior
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+
+#EXTINF:-1 tvg-group="Kids" tvg-id=" " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DisneyJr.png",Disney Jr
+https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/DisneyJr/live.m3u8
 
 ========================================================================================== Sports =================================================================================================================
 
