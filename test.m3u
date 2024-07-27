@@ -3,10 +3,10 @@
 ========================================================================================== MYTV =================================================================================================================
 
 #EXTINF:-1 tvg-id="101" ch-number="101" group-title="MYTV" group-logo="https://graduan.sgp1.cdn.digitaloceanspaces.com/media/602813/thumb/3a88408c-c165-11ed-b0db-aa91bde98a27.png" tvg-logo="https://i.imgur.com/wSyPmiY.png",TV1 
-http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1734 
+https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
 #EXTINF:-1 tvg-id="102" ch-number="102" group-title="MYTV" tvg-logo="https://i.imgur.com/LGEdeyJ.png",TV2
-http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1733 
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 #EXTINF:-1 tvg-id="103" ch-number="103" group-title="MYTV" tvg-logo="https://i.imgur.com/bHcZgIo.png", TV3
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
