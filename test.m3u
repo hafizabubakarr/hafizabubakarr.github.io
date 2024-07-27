@@ -55,10 +55,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
-EXTINF:-1 tvg-id="129" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png ",Dewan Rakyat
-https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
-
-#EXTINF:-1 tvg-id="130" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",Dewan Negara
+#EXTINF:-1 tvg-id="633" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",Dewan Negara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 
 ========================================================================================== Astro =================================================================================================================
@@ -305,7 +302,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2100
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default.mpd
 
-#EXTINF:0 group-title="Sports" tvg-ID="821" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" , WWE Network
+#EXTINF:0 group-title="Sports" tvg-ID="821.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" , WWE Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MFKMTviClU5XB80QAdZhIQ", "kid":"DLxNO0+9mvUSrLJIi7QpEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
