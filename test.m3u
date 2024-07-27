@@ -9,46 +9,50 @@ https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 #EXTINF:-1 tvg-id="103" ch-number="103" group-title="MYTV" tvg-logo="https://i.imgur.com/bHcZgIo.png", TV3
-https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #EXTINF:-1 tvg-id="109" ch-number="109" group-title="MYTV" tvg-logo="https://i.imgur.com/bK8UH9D.png", TV6
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 
 #EXTINF:-1 tvg-id="149" group-title="MYTV" tvg-logo="https://i.imgur.com/Krh1F8d.png", TV9
-http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1729
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
 #EXTINF:-1 tvg-id="122" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/512px-TVS_Sarawak.jpg", TVS
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
 
 #EXTINF:-1 tvg-id="148" group-title="MYTV" tvg-logo="https://i.imgur.com/Jkx9W88.png",8TV
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
 
 #EXTINF:-1 tvg-id="001" group-title="MYTV" tvg-logo="https://i.imgur.com/1Xzxsgl.png",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 
 #EXTINF:-1 tvg-id="146" group-title="MYTV" tvg-logo="https://i.imgur.com/V2jREQ5.png",Okey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
 #EXTINF:-1 tvg-id="002" group-title="MYTV" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220810/20220810211708829sbp.png",RTM Parlimen
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
 #EXTINF:-1 tvg-id="147" group-title="MYTV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
-https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 #EXTINF:-1 tvg-id="005" group-title="MYTV" tvg-logo="https://i.imgur.com/X6JKNEE.png",TVIKIM
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
+https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 #EXTINF:-1 tvg-id="007" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Bernama_logo.png",Bernama
-https://ythls.armelin.one/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+ttps://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f84fbe826d15755ef91ebcab67c57d10:6a136b65d2d45699cb1e98506dfa1bee
 #EXTINF:-1 tvg-id="123" group-title="MYTV" tvg-logo="https://i.imgur.com/x90U1Bf.png" , Awesome TV
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/manifest.mpd
+
+#EXTINF:-1 tvg-id="128" group-title="MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 ========================================================================================== Astro =================================================================================================================
 
@@ -68,7 +72,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png", Astro Awani
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/manifest.mpd
+https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
 #EXTINF:-1 tvg-id="106" group-title="Astro" tvg-logo="https://i.imgur.com/5zS4eFG.png", Astro Oasis HD
 http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1701 
@@ -232,7 +236,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/9982/default_primary.mp
 ========================================================================================== Sports =================================================================================================================
 
 #EXTINF:-1 tvg-id="003" group-title="Sports" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://i.imgur.com/1pYYSu2.png",Sukan RTM 
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 
 #EXTINF:-1 tvg-id="824" group-title="Sports"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
