@@ -180,7 +180,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5054/default_primary.mp
 #EXTINF:0 tvg-ID="309" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="Movies" ,Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/506/default.mpd
+http://210.210.155.37/dr9445/h/h14/index.m3u8
 
 #EXTINF:-1, tvg-id="701" group-title="Movies" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png",AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -195,7 +195,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GegOzF0zchXGQATLScnLAQ", "kid":"+vTWK7iY3lA0RsKPsaqSEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="395" group-title="Koreans" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",tvN
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+http://210.210.155.37/dr9445/h/h21/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0SzOuvu6KlNdiKMIf4hCUg", "kid":"jiaciqMq1364MGgxI0PWEA" } ], "type":"temporary" }
