@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml" tvg-url="https://raw.githubusercontent.com/zhafri/EPG/main/guide.xml" refresh="3600"
-#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://AqFad2811.github.io/epg/compressed/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" refresh="3600"
 
 ========================================================================================== MYTV =================================================================================================================
 
@@ -230,7 +230,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_primary.mp
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3mxf6q5faWO0s5LdyLaneA", "kid":"UMaZxETl+A2sr8TJlmfYEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
-#EXTINF:-1 tvg-id="616" group-title="Kids" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon
+#EXTINF:-1 tvg-id="616" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/ee/Nickelodeon_1993.svg/revision/latest/scale-to-width-down/250?cb=20210814024757",Nickelodeon Bahasa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/Spongebob/live.m3u8
@@ -239,9 +239,6 @@ https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/Spongebob
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tKu+6Vtps+gKDRQScshw2w", "kid":"+mUiDJ925CQXOJnfUzptEA" } ], "type":"temporary" }
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
-
-#EXTINF:-1 tvg-group="Kids" tvg-id=" " tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DisneyJr.png",Disney Jr
-https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/DisneyJr/live.m3u8
 
 ========================================================================================== Sports =================================================================================================================
 
