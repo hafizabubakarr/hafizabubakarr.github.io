@@ -79,7 +79,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 
 #EXTINF:-1 tvg-id="106" group-title="Astro" tvg-logo="https://i.imgur.com/5zS4eFG.png", Astro Oasis HD
-http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1701 
+http://50.7.161.82:8277/streams/d/Oasis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://i.imgur.com/5zS4eFG.png", Astro Ria
 http://152.89.62.76:8880/DAALM686/axaaCkkRXs/1705 
