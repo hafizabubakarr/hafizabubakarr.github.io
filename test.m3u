@@ -19,7 +19,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
 #EXTINF:-1 tvg-id="122" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/512px-TVS_Sarawak.jpg", TVS
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+https://www.mana2.my/e33e051b-5cce-494d-99ff-4f7b2b2ed44d
 
 #EXTINF:-1 tvg-id="148" group-title="MYTV" tvg-logo="https://i.imgur.com/Jkx9W88.png",8TV
 https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
