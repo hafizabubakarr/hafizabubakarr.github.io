@@ -18,6 +18,8 @@ https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 #EXTINF:-1 tvg-id="149" group-title="MYTV" tvg-logo="https://i.imgur.com/Krh1F8d.png", TV9
 https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="122" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/512px-TVS_Sarawak.jpg", TVS
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
@@ -49,7 +51,7 @@ ttps://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/li
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f84fbe826d15755ef91ebcab67c57d10:6a136b65d2d45699cb1e98506dfa1bee
 #EXTINF:-1 tvg-id="123" group-title="MYTV" tvg-logo="https://i.imgur.com/x90U1Bf.png" , Awesome TV
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/manifest.mpd
+https://cdnatv.mirack.tv/Atv/index.m3u8
 
 #EXTINF:-1 tvg-id="128" group-title="MYTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
