@@ -43,7 +43,7 @@ https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cd0f33db5a826c850e0ef6ca9331a82:207f3ac36c8d5c85395c147154d41581
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" group-title="UNIFI TV" group-logo="https://speedtrademarket.com/live/logo/unifitv_logo.png" tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD
+#EXTINF:-1 tvg-id="" group-title="UNIFI TV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Unifi_TV_%282022%29.svg/1200px-Unifi_TV_%282022%29.svg.png" tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png", Salam HD
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -52,22 +52,16 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live32.mpd
 #EXTINF:-1 tvg-id="" group-title="UNIFI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest?cb=20220902115129", Siar HD
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live31.mpd
 
-#EXTINF:-1 tvg-id="701" tvg-logo=" https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png ",Unifi Sports 1
+#EXTINF:-1 tvg-id="701" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png" group-title="UNIFI TV" ,Unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
 https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-id="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",Unifi Sports 2
+#EXTINF:-1 tvg-id="702" group-title="UNIFI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",Unifi Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTVLCOPT:http-referrer=http://www.unifi_en.com.my
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YjlmNGY4YWYtODNlYi0zNjY4LTlhNDgtYzIyMDFlMGQ1NjYw 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331" group-title="UNIFI TV",Sensasi HD 
-https://web.hypp.tv:443/PLTV/88888888/224/3221227598/3221227598.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab 
@@ -77,17 +71,6 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
 #EXTINF:-1 tvg-id="128" group-title="UNIFI TV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png", Dunia Sinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/Degup.png/revision/latest?cb=20220924000615" group-title="UNIFI TV",Degup 
-https://web.hypp.tv:443/PLTV/88888888/224/3221227923/3221227923.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9uuxH7x3%2FZwmEQ4bTlgbubfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080123%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080123%2Curn:Huawei:liveTV:XTV55631601%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjAoqxfeCUKlKlyq0Ut9doDS_UCjYpOJH6941b57q7s5olw9HLs23l4OoKRnlXaadbaCfrthYVGiPkIFih7y5ZxRxiHOfQJb9in4fdUQouuFKSS8X69W4fEbZld50GyvbpgR0o30ZH1pcTv6FwhJApYBnTzN8jfj5y3CaM-k1NGtOqRhulTVOxZU17lPO9YV8ouzRdkMm_pvAH2BNiIXaBOyNQh4nsfI3xn3vL_m7zCxBl4Ar0AAAA&tenantId=6001
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=MzlhNGEyN2ItMDBmZS0zZGZiLWFiMmUtYjM2MzJkNzZmZTli
-#EXTINF:-1 tvg-id="" group-title="UNIFI TV" tvg-logo="https://speedtrademarket.com/live/logo/colorcineplex_v3.png",UNIFI Colors Complex
-https://web.hypp.tv:443/PLTV/88888888/224/3221227501/3221227501.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487w7lGFEpX0ifA8R%2BaRP%2FJr%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082912%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082912%2Curn:Huawei:liveTV:XTV100000343%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ7CIBREb8OSFFBaFqw0Jiammljdmi_9YCMtCm0Tb6_Vup2ZN3l9BIPbtUZb5PYqRM4VXwhmQRmJlquCLcQyLwxJ-CyD5sSA903nylBP2Pm4urCMZpRzRhkn1XS38eDmZTm0V4xa_LEjxrExqOtk6QiJgnMRHfRN6OjBw-sU_TwhWM1qTErFC8myZS4V6ae0gnT_NOQGaRXaB0Ssd8F9AW3BJyQPMHdwWEKLuhu8_3H7WH9s3ssbpUv0AAAA&tenantId=6001
 
 ========================================================================================== Astro =================================================================================================================
 
@@ -176,7 +159,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="413" group-title="Movies" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/0/0a/Showcase_Movies.svg/revision/latest?cb=20220415232516", Showcase
+#EXTINF:-1 tvg-id="413" group-title="Movies" tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/showcase-logo-resize_656x388.png", Showcase
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
 #EXTINF:0 tvg-ID="309" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="Movies" ,Celestial Movies
@@ -404,23 +387,19 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 # #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"bDxJgROr/99FTck1MZp5TQ", "kid":"sfvQh055I/WwWSmgQqoGEA" } ], "type":"temporary" }
 # https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UlUQz6Y0vWMK+MlfqTV2yg", "kid":"bwbzs898utDMiyHiyU37EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="501" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png", Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
-#EXTINF:-1 tvg-id="633" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",Dewan Negara
+#EXTINF:-1 tvg-id="633" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",Dewan Negara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 
-#EXTINF:-1 tvg-id="001" group-title="MYTV" tvg-logo="https://i.imgur.com/1Xzxsgl.png",Berita RTM
+#EXTINF:-1 tvg-id="001" group-title="News" tvg-logo="https://i.imgur.com/1Xzxsgl.png",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 
-#EXTINF:-1 tvg-id="002" group-title="MYTV" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220810/20220810211708829sbp.png",RTM Parlimen
+#EXTINF:-1 tvg-id="002" group-title="News" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202208/20220810/20220810211708829sbp.png",RTM Parlimen
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 
-#EXTINF:-1 tvg-id="007" group-title="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Bernama_logo.png",Bernama
+#EXTINF:-1 tvg-id="007" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/Bernama_logo.png",Bernama
 ttps://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
