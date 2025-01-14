@@ -9,8 +9,13 @@ https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 #EXTINF:-1 tvg-id="102" ch-number="102" group-title="MYTV" tvg-logo="https://i.imgur.com/LGEdeyJ.png",TV2
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 #EXTINF:-1 tvg-id="103" ch-number="103" group-title="MYTV" tvg-logo="https://i.imgur.com/bHcZgIo.png", TV3
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 #EXTINF:-1 tvg-id="109" ch-number="109" group-title="MYTV" tvg-logo="https://i.imgur.com/bK8UH9D.png", TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
