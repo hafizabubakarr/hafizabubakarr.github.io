@@ -29,7 +29,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #EXTINF:-1 tvg-id="148" group-title="MYTV" tvg-logo="https://i.imgur.com/Jkx9W88.png",8TV
-https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #EXTINF:-1 tvg-id="146" group-title="MYTV" tvg-logo="https://i.imgur.com/V2jREQ5.png",Okey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -112,10 +112,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 //#KODIPROP:inputstream.adaptive.license_type=clearkey
 //#KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 //#EXTINF:-1 tvg-id="104" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" , Astro Ria HD
-//https://aseanic.github.io/hls/33.m3u8
-//#https://linearjitp.perfecttv.net/ria.mpd
-//#https://ht7mvvlb8c.execute-api.ap-southeast-1.amazonaws.com/ria.mpd
-//#https://linears-playback.astro.com.my/vsg/419VQojKc7CVIKxKhfUy8uJ555jLnnZO5TfeBakOt-WGg=rJC-/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 
 ========================================================================================== Movies =================================================================================================================
 
