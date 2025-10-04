@@ -14,7 +14,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 #EXTINF:-1 tvg-id="103" ch-number="103" group-title="MYTV" tvg-logo="https://i.imgur.com/bHcZgIo.png", TV3
-https://tvmalaysia.website/memfs/8b209333-8f32-459e-a091-b8958946840b_output_0.m3u8
+https://live-ssar-02.tonton.com.my/1759599864/0x840ba413bf7b7fc9ce325aade06796e170f42057e3b1694dc4bcebbd65a587d9/stream-tv3/master_360.m3u8
 
 #EXTINF:-1 tvg-id="109" ch-number="109" group-title="MYTV" tvg-logo="https://i.imgur.com/bK8UH9D.png", TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
