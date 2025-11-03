@@ -14,7 +14,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
 
 #EXTINF:-1 tvg-id="103" ch-number="103" group-title="MYTV" tvg-logo="https://i.imgur.com/bHcZgIo.png", TV3
-https://live-ssar-02.tonton.com.my/1759599864/0x840ba413bf7b7fc9ce325aade06796e170f42057e3b1694dc4bcebbd65a587d9/stream-tv3/master_360.m3u8
+https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/809/80/video-cif-stream-1.m3u8
 
 #EXTINF:-1 tvg-id="109" ch-number="109" group-title="MYTV" tvg-logo="https://i.imgur.com/bK8UH9D.png", TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
@@ -29,7 +29,7 @@ https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 
 #EXTINF:-1 tvg-id="148" group-title="MYTV" tvg-logo="https://i.imgur.com/Jkx9W88.png",8TV
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
+http://cdn6.163189.xyz/163189/8tv
 
 #EXTINF:-1 tvg-id="146" group-title="MYTV" tvg-logo="https://i.imgur.com/V2jREQ5.png",Okey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
