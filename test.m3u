@@ -42,7 +42,7 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 //#EXTINF:-1 tvg-id="005" group-title="MYTV" tvg-logo="https://i.imgur.com/X6JKNEE.png",TVIKIM
 //https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo=https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png",RTM ASEAN
+#EXTINF:-1 tvg-id="" group-title="MYTV" tvg-logo="https://hafizabubakarr.github.io/img/rtm_asean.png",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
 ========================================================================================== UNIFI TV =================================================================================================================
