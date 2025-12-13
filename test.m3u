@@ -36,7 +36,7 @@ http://cdn6.163189.xyz/163189/8tv
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 
-#EXTINF:-1 tvg-id="147" group-title="MYTV" tvg-logo="https://hafizabubakarr.github.io/img/TVS_Sarawak.jpg",DidikTv KPM
+#EXTINF:-1 tvg-id="147" group-title="MYTV" tvg-logo="https://hafizabubakarr.github.io/img/DidikTV_KPM.png",DidikTv KPM
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
 //#EXTINF:-1 tvg-id="005" group-title="MYTV" tvg-logo="https://i.imgur.com/X6JKNEE.png",TVIKIM
